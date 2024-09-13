@@ -10,5 +10,5 @@
 ## Tech Stack
 
 - Whisper API
-- Llama 3.1
+- Llama 3.1 
 - ElevenLabs API
